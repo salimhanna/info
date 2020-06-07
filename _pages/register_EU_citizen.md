@@ -22,11 +22,11 @@ For this section, we're going to blatantly steal everything from the [lifeX Cope
 
 ## Once you've got your CPR number
 - Decide if you want to get your Nem-ID **(link Nem-ID article here)** through the Borger Service or through your bank. Your Nem-ID is the second number that will define you as a person living in Denmark.
-- If you want to go through the process with your bank, [pick one and apply for an account right away](banks.md).
+- If you want to go through the process with your bank, [pick one and apply for an account right away](/topics/banking/).
 - If you want to go through the process with the Borger Service, wait one week for your so-called "Yellow Card". Once you've got it, book an appointment with the Borger Service, pick up all the documents and wait another week before you recieve your activation code.
 
 ## Once you've got your Nem-ID
 
-- If you haven't applied for a bank account yet, [pick a bank and apply for an account](banks.md).
+- If you haven't applied for a bank account yet, [pick a bank and apply for an account](/topics/banking/).
 - Set up your [eBoks](https://www.e-boks.com/danmark/da/log-paa/). It is an online letter box where you will recieve your payslips and other important mails. 
 - Get yourself a Danish phone number. You will need it to use [Mobile Pay](www.mobilepay.dk/‎). It is a payment service used by pretty much every person in Denmark instead of using cash. Only works with Danish phone numbers.
