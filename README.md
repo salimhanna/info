@@ -40,7 +40,7 @@ Without any prior setup on your local site, you can edit files directly on githu
 Once you click on it, you are able to edit and preview your changes. Saving is equal to making a commit.
 
 If you want, you can also upload a picture to 
-[_pages/image/your_name.png](https://github.com/RasmussenLab/Website/tree/dev/_pages/images) 
+[_pages/Figures/img_name.png](_pages\Figures) 
 of yours and reference it in your page:
 
 ![Upload your Image](upload_your_image.png)
