@@ -63,6 +63,16 @@ bundle exec jekyll serve --watch
 
 > Website is deployed using [GitHub Pages](https://pages.github.com/)
 
+## Note on linking within the website
+In order to be able to flexibly link together single sub-pages, each source 
+markdown [`_page`](_page) has a permalink. This then allows to link non-nesting
+sites easily together (so any website anywhere in the site-tree can be linked).
+This is not super evident in the beginning, but lead to many errors during development.
+Therefore:
+
+1. each markdown document has a set permalink
+  - no leading or trailing `/` (dashes)
+2. to link a page in any other pages, set the full link permalink.
 
 ## Resources
 
