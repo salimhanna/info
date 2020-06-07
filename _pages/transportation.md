@@ -1,7 +1,7 @@
 ---
 title: Transportation
 layout: single
-permalink: transportation/
+permalink: transportation
 sidebar:
   nav: "sitemap"
 toc: true
@@ -11,7 +11,7 @@ toc: true
 
 ## Bikes
 
-Get a [bike](/transportation/bikes/) to move around in CPH!
+Get a [bike](transportation/bikes) to move around in CPH!
 
 ## Public Transport
 

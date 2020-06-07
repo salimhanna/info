@@ -1,7 +1,7 @@
 ---
 title: After arriving in Copenhagen
 layout: single
-permalink: /after-arriving
+permalink: after-arriving
 sidebar:
   nav: "sitemap"
 # toc: true

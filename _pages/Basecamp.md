@@ -1,7 +1,7 @@
 ---
 title: Basecamp
 layout: single
-permalink: housing/basecamp/
+permalink: housing/basecamp
 sidebar:
   nav: "sitemap"
 # toc: true

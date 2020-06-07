@@ -1,7 +1,7 @@
 ---
 title: Bikes
 layout: single
-permalink: transportation/bikes/
+permalink: transportation/bikes
 sidebar:
   nav: "sitemap"
 toc: true

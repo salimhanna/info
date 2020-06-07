@@ -1,7 +1,7 @@
 ---
 title: Furniture
 layout: single
-permalink: topics/furniture/
+permalink: topics/furniture
 sidebar:
   nav: "sitemap"
 toc: true

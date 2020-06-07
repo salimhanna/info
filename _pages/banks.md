@@ -1,7 +1,7 @@
 ---
 title: Banking
 layout: single
-permalink: topics/banking/
+permalink: topics/banking
 sidebar:
   nav: "sitemap"
 toc: true

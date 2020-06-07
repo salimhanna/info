@@ -1,7 +1,7 @@
 ---
 title: Register an non EU citizen
 layout: single
-permalink: register/non-eu/
+permalink: register/non-eu
 sidebar:
   nav: "sitemap"
 toc: true

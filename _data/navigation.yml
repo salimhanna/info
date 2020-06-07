@@ -1,8 +1,8 @@
 main:
   - title: "Before arriving"
-    url: /before-arriving
+    url: before-arriving
   - title: "After arriving"
-    url: /after-arriving
+    url: after-arriving
 
 # main links
 sitemap:
@@ -16,22 +16,22 @@ sitemap:
     url: register
     children:
     - title: "NON EU"
-      url: register/non-eu/
+      url: register/non-eu
     - title: "EU"
-      url: register/EU-citizen/
+      url: register/EU-citizen
     - title: "NORDIC"
       url: register/nordic
   - title: "topics"
-    url: topics/
+    url: topics
     children:
       - title: HOUSING
-        url: housing/
+        url: housing
       - title: "FURNITURE"
         url: topics/furniture
       - title: "BANKING"
         url: topics/banking
       - title: "BASECAMP"
-        url: housing/basecamp/
+        url: housing/basecamp
   - title: "transportation"
     url: transportation
     children:
