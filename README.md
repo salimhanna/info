@@ -74,6 +74,8 @@ Therefore:
   - no leading or trailing `/` (dashes)
 2. to link a page in any other pages, set the full link permalink.
 
+> See the (squashed) [commit of fixing permalinks](https://github.com/cphbiosciencephd/info/commit/07f9d12106fe7d987aa99f58885826d590c269a8) for concrete examples
+
 ## Resources
 
 ### Minimal
