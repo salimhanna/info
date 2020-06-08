@@ -7,7 +7,7 @@ sidebar:
 toc: true
 ---
 
-> Questions can be addressed on [github issue](https://github.com/cphbiosciencephd/info/issues/new) (you need an account) or by mail to [Henry](mailto:henry.webel@cpr.ku.dk). 
+> Questions can be addressed on [github issue](https://github.com/cphbiosciencephd/info/issues/new) (you need an account) or by mail to [Dora](mailto:isidora.banjac@bric.ku.dk) or [Matthias](mailto:matmat@biosustain.dtu.dk). 
 > Please make suggestions:)
 
 <!-- # Welcome -->
