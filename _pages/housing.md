@@ -9,5 +9,5 @@ sidebar:
 
 <!-- There are two main housing options: -->
 
-1. Getting Housing upfront via the HousingFoundation, e.g. in [basecamp](housing/basecamp)
-2. Finding a [private housing](housing/not-housing-foudation) on arriving
+1. Getting Housing before you arrive through the Housing Foundation, e.g. in [basecamp](housing/basecamp)
+2. Finding [private housing](housing/not-housing-foudation) after you arrive

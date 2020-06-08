@@ -7,8 +7,8 @@ sidebar:
 # toc: true
 ---
 
-Hopefully you have a first place to stay and filled some form online, before setting your foot on the soil in Copenhagen.
-Besides all the introductionary session, you should consider:
+Hopefully you have found a place to stay and filled some form online, before setting your foot on the soil in Copenhagen.
+Besides all the introductory sessions, you should consider:
 
 1. [Finalizing your registration](register)
 2. Opening a [bank account](topics/banking)

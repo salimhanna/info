@@ -26,10 +26,8 @@ where you have agreed prior to renting it that the owner
 will sign your housing registration document. 
 Then you have a whole month to have a look for an apartment.
 
-Bolig portalen is a good site for this, it is in danish, 
-but google translate seems to work well. 
-There are also other sites, 
-but quite often you have to pay to message landlords so keep an eye out for this.
+Boligportal is a good site for this. Some housing descriptions are in danish, 
+but google translate seems to work well. You will also need to pay a monthly membership fee in order to write the contact the landlords. There are other sites as well, but boligportal seems to have the largest selection. 
 
 It is also possible to ask the administration in your centre 
 to send an email to employees to see if anyone knows of a spare room.

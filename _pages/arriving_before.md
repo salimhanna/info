@@ -9,7 +9,7 @@ sidebar:
 ---
 
 At least two weeks before Before arriving 
-- Checkout how to register as [EU](register/EU-citizen) or [Non-EU](register/non-eu) Citizen
+- Check out how to register as [EU](register/EU-citizen) or [Non-EU](register/non-eu) Citizen
   <!-- > You have to book appointsments at least two weeks before arriving. -->
 - Look at Housing options:
   - Get Housing [apart from basecamp](housing/not-housing-foudation) or the housing-foundation (yes, it's possible:)
