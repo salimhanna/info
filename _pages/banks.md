@@ -22,7 +22,7 @@ There are two ways to get your Nem-ID once you've got your CPR number:
 - Through the citizen service ([Borger Service](https://www.nemid.nu/dk-en/get_started/request_nemid/))
 - Through your bank
 
-Both of these options are fine as long as you **don't start both processes at the same time**. 
+Either of these options are fine as long as you **don't start both processes at the same time**. 
 
 > Seriously, don't start both processes at the same time.
 

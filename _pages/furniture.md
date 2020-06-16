@@ -26,11 +26,11 @@ Maybe it is not the first option to check, but the offers are very worth conside
 
 Danes are very keen on reusing old furniture, kitchen stuff and many other things. Recycling stations are located around the city and they are a very good option to get things **(for free!)**. You will find a lot of kitchen equipment (plates, glasses and other utensils), chairs and bigger furniture (sofas, carpets) and even home appliances like blenders or hoovers. 
 
-Many of the things here can look damaged or broken, but there are many other that are in a very good condition and could be perfectly taken to your new home. 
+Many of the things here can be damaged or broken, but there are many others in very good condition that could fit perfectly in your new home. 
 
 >TIP: Saturday and Sunday mornings are good days to check these places! A lot of people take their unwanted stuff on the weekends. 
 
-But... remember that as everything is for free, first come first served. 
+But... remember that as everything is for free, so first come first served. 
 
 ![website](Figures/Places.png)
 
@@ -38,7 +38,7 @@ To check the closest recycling place to your home, just google "recycling place 
 
 ## SECOND HAND SHOPS
 
-Second hand shops are common in Copenhagen, not only for clothes but also for home stuff. Have a look at these places as you could find useful things for home for a considerably reduced price. 
+Second hand shops are common in Copenhagen, not only for clothes but also for home furnishings. Have a look at these places as you could find useful things for home for a considerably reduced price. 
 
 ## SECOND HAND STUFF ON THE INTERNET 
 
@@ -50,6 +50,6 @@ You can also download the [**DBA**](https://www.dba.dk/) app, or use the website
 
 If you live at BaseCamp you should find [**BaseCamp CPH Buy/Sell/Give**](https://www.facebook.com/groups/1841985679414331/) facebook group useful. Since many students are there for just a few months, someone is always selling some stuff they don't want to take back home.
 
-In general, **Facebook Marketplace** is a good and widely used source for second hand goods in CPH!
+In general, **Facebook Marketplace** is a good and widely used source for secondhand goods in CPH!
 
 

@@ -13,16 +13,16 @@ You need a bike in Copenhagen. There is just no way around it.
 
 ## Rental Bikes
 
-Buying one here, even from a second hand store, might be a bit pricy. That's makes things especially difficult if you haven't been paid yet. Luckily there are retal options available to get started.
+Buying one here, even from a second hand store, might be a bit pricey. That's makes things especially difficult if you haven't been paid yet. Luckily there are rental options available to get started.
 
 ### Swapfiets
 
-[Swapfiets](https://swapfiets.dk/en/offer/copenhagen) offers decent, affordable rental bikes that you can use until you've been paid and bought your own. You rent them on a monthly basis with the minimun rental period being 2 months. While they are designed for the city, their bikes are also light enough to be used by DTU commuters. The regular price per month is DKK 175.00 with a discount price of DKK 150.00 for anyone who still has a valid student card. Keep in mind that the bike should be booked *at least two weeks* in advance as they are in high demand! So maybe take care of that before arriving here, you can book a date to pick it up or let them deliver it to you. Once you've realised it you will see their distinctive blue front wheels all over town.
+[Swapfiets](https://swapfiets.dk/en/offer/copenhagen) offers decent, affordable rental bikes that you can use until you've been paid and bought your own. You rent them on a monthly basis with the minimun rental period being 2 months. While they are designed for the city, their bikes are also light enough to be used by DTU commuters. The regular price per month is DKK 175.00 with a discount price of DKK 150.00 for anyone who still has a valid student card. Keep in mind that the bike should be booked *at least two weeks* in advance as they are in high demand! It is therefore recommended to take care of that before arriving here. You can book a date to pick it up or have them deliver it to you. Once you've realised it you will see their distinctive blue front wheels all over town.
 
 ![Swapfiets image](Figures/Swapfiets.png)
 
 Summary:
-- Monthly abo for DKK 175.00 (DKK 150.00 for students)
+- Monthly fee of DKK 175.00 (DKK 150.00 for students)
 - Two month minimum
 - Book at least two weeks in advance
 - Pick up or delivery
@@ -34,7 +34,7 @@ Summary:
 
 ### Buddha Bikes
 
-A good place to buy a second hand bike is [Buddha Bikes](https://www.buddhabikes.dk/). Although they are probably not the cheapest second hand bike shop in Copenhagen, they provide a big selection, were able to answer detailed questions and, most important of all, have nice bikes. It is also in walking distance from Panum!
+A good place to buy a second hand bike is [Buddha Bikes](https://www.buddhabikes.dk/). Although they are probably not the cheapest second hand bike shop in Copenhagen, they provide a big selection, one year guarantee, were able to answer detailed questions and, most importantly, have nice bikes. It is also about a 15 minute walk from Panum!
 
 Summary:
 - Cool flair, nice bikes
