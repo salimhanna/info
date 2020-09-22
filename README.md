@@ -5,12 +5,12 @@ Providing information for starting as a new PhD student from abroad in Copenhage
 in the [Copenhagen Bioscience PhD Programme](https://cphbiosciencephd.org/) (CBPP).
  Createad as a training resource for learning git and collaborating using github.
 
-> Please create an [issue](https://github.com/enryH/cbpp_info/issues) if you have suggestions 
+> Please create an [issue](https://github.com/cphbiosciencephd/info/issues) if you have suggestions 
 > on further content or for general changes.
 
 ## Learning Goals
 
-- Create a [website](https://enryh.github.io/cbpp_info/) using [GitHub Pages](https://pages.github.com/)
+- Create a [website](https://github.com/cphbiosciencephd/info) using [GitHub Pages](https://pages.github.com/)
 - Render Text using [Markdown](https://guides.github.com/features/mastering-markdown/)
 - Basic knowledge of [git](https://git-scm.com/) functionality
 - Collaborating in an open source environment as described in [_A successful Git branching model_](https://nvie.com/posts/a-successful-git-branching-model/)
@@ -33,7 +33,7 @@ in the [Copenhagen Bioscience PhD Programme](https://cphbiosciencephd.org/) (CBP
 You can either edit online or offline using [Markdown](https://guides.github.com/features/mastering-markdown/).
 ### Edit online an existing file on GitHub 
 Without any prior setup on your local site, you can edit files directly on github, see the arrow on the screenshot below for 
-[_pages/enryh](https://github.com/RasmussenLab/Website/blob/dev/_pages/people_henry.md):
+[_pages/bikes.md](https://github.com/cphbiosciencephd/info/blob/master/_pages/bikes.md):
 
 ![Screenshot Editing on GitHub](edit_on_github.png)
 

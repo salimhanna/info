@@ -23,12 +23,12 @@ Launch a terminal (alias command line) in the folder where you want to copy file
 Once you have your terminal open clone the repository using 
 
 ```bash
-git clone https://github.com/enryH/cbpp_info.git # copy files from remote server hosted by github
+git clone https://github.com/cphbiosciencephd/info.git # copy files from remote server hosted by github
 cd cbpp_info # got into just created folder
 ```
 which will promt something like ("$" denotes a input by a user)
 ```bash
-$ git clone https://github.com/enryH/cbpp_info.git
+$ git clone https://github.com/cphbiosciencephd/info.git
 Cloning into 'cbpp_info'...
 remote: Enumerating objects: 16, done.
 remote: Counting objects: 100% (16/16), done.
