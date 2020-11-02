@@ -32,6 +32,8 @@ sitemap:
         url: topics/banking
       - title: "BASECAMP"
         url: housing/basecamp
+      - title: DANISH
+        url: topics/learn-danish
   - title: "transportation"
     url: transportation
     children:
