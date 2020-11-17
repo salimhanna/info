@@ -29,3 +29,10 @@ Check out [Mic's excellent playlist](https://www.youtube.com/playlist?list=PLD3n
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qTqMcIvmGng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Dictionaries
+- den [danke Ordbog](https://ordnet.dk/ddo), offers also pronounciation of single words
+
+### More material
+
+- [learn danish blog](https://www.learn-danish.com/category/danish-classes-and-tips/)
