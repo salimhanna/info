@@ -11,3 +11,4 @@ toc: true
 - [Furniture](topics/furniture)
 - [Banking](topics/banking)
 - [BaseCamp](housing/basecamp)
+- [Learning Danish](topics/learn-danish)
