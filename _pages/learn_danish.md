@@ -8,7 +8,18 @@ sidebar:
 ---
 
 Several language schools offer a wide variety of courses. Plenty of online material 
-exist to get started. It is even possible to start before you arrive in Copenhagen.
+exist to get started. It is even possible to start before you arrive in Copenhagen 
+in online courses.
+
+Some schools are paid for by the state, some have to be paid for by your employer (institute)
+or yourself- which might change periodically with new tenders.
+
+An incomplete list (alphabetically):
+
+- [Clavis](https://www.clavis.org/til-kursister/danskuddannelsen)
+- [Copenhagen Language Center](https://www.kbh-sprogcenter.dk/en/)
+- [Studiskolen](https://www.studieskolen.dk/en)
+- [UCplus](https://ucplusdansk.dk/danskkurser/)
 
 ## Online Material
 
