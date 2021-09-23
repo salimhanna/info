@@ -20,7 +20,7 @@ free typing - which will force you to remember Danish a lot more than only assem
 words to phrases. 
 
 ### Babbel
-Berlin based Babbel has - end of 2020 - a paid basic language offer for Danish. Some people
+Berlin-based Babbel has - end of 2020 - a paid basic language offer for Danish. Some people
 prefer their course over getting started in Duolingo. 
 
 ### Youtube
@@ -31,7 +31,7 @@ Check out [Mic's excellent playlist](https://www.youtube.com/playlist?list=PLD3n
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qTqMcIvmGng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Dictionaries
-- den [danke Ordbog](https://ordnet.dk/ddo), offers also pronounciation of single words
+- den [danske Ordbog](https://ordnet.dk/ddo), also offers pronounciation of single words
 
 ### More material
 
