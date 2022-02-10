@@ -18,7 +18,8 @@ An incomplete list (alphabetically):
 
 - [Clavis](https://www.clavis.org/til-kursister/danskuddannelsen)
 - [Copenhagen Language Center](https://www.kbh-sprogcenter.dk/en/)
-- [Studiskolen](https://www.studieskolen.dk/en)
+- [Speak](https://speakspeak.dk/)
+- [Studieskolen](https://www.studieskolen.dk/en)
 - [UCplus](https://ucplusdansk.dk/danskkurser/)
 
 ## Online Material
@@ -42,7 +43,12 @@ Check out [Mic's excellent playlist](https://www.youtube.com/playlist?list=PLD3n
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qTqMcIvmGng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Dictionaries
-- den [danske Ordbog](https://ordnet.dk/ddo), also offers pronounciation of single words
+- [Den Danske Ordbog](https://ordnet.dk/ddo) also offers pronounciation of single words.
+
+### Podcasts
+
+- [Denmark & Me](https://denmarkandme.com/podcast/) is a series of intermediate-level podcasts. Each podcast
+comes with its transcription and a set of exercises, and can be listened on different platforms, such as Spotify and Apple Podcasts.
 
 ### More material
 
