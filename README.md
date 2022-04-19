@@ -17,6 +17,8 @@ in the [Copenhagen Bioscience PhD Programme](https://cphbiosciencephd.org/) (CBP
 
 > No Coding involved. Only Text
 
+[Some slides](https://docs.google.com/presentation/d/1obZPbSLQGqbkpaRr7Y3k5K8s4NEG7rBaP9BjrbYszS0/edit?usp=sharing) used for presenting some core aspects.
+
 ## Provided Information 
 - [lifex website](https://www.joinlifex.com/copenhagen/moving-to-copenhagen-denmark) on how to get started in Copenhagen
   - put into perspective what you have to do
