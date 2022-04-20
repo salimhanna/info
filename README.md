@@ -45,7 +45,7 @@ of yours and reference it in your page:
 
 ![Upload your Image](upload_your_image.png)
 
-> you commit your changes to the branch you selected!
+> you commit (=save) your changes to the branch you selected!
 
 ### Local file editing
 - Follow the description in [setup.md](setup.md)
